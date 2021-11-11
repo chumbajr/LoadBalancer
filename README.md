@@ -1,8 +1,8 @@
-#GO LOAD HTTP BALANCER
-This is a simple golang http proxy load balancer
+# GO LOAD HTTP BALANCER
+        This is a simple golang http proxy load balancer
 
 
-##USAGE:
+## USAGE:
         go run main.go -servers=<server1 URL>,<sever2 URL> -port=<load balancer port>
         
         The Default Load Balancer Port is 4000. 
